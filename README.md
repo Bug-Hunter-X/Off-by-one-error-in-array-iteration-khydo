@@ -1,0 +1,1 @@
+This repository demonstrates a common off-by-one error in Java. The bug occurs in a loop that iterates over an array, and the loop condition allows accessing an index beyond the array's bounds.  The solution corrects the loop condition to prevent the out-of-bounds access and potential runtime exceptions.
